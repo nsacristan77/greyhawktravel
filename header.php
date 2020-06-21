@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Greyhawk Travel and Tours</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/greyhawk-style.css">
   </head>
   <body>
       <head>
